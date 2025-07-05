@@ -45,7 +45,7 @@ A full-stack web application that enables users to submit feedback and allows ad
 ---
 
 ### 🏠 Admin Dashboard  
-![Admin Dashboard](Screenshots/admin_dashboard_page.png)
+![Admin Dashboard](Screenshots/average_ratings.png)
 
 ---
 
@@ -54,10 +54,6 @@ A full-stack web application that enables users to submit feedback and allows ad
 
 ---
 
-### 📊 Ratings View  
-![Ratings View](Screenshots/average_ratings.png)
-
----
 
 ## 🛠️ Tech Stack
 
