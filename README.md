@@ -45,12 +45,12 @@ A full-stack web application that enables users to submit feedback and allows ad
 ---
 
 ### 🏠 Admin Dashboard  
-![Admin Dashboard](Screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ---
 
 ### 📄 Feedback Form  
-![Feedback Form](Screenshots/feedback_form.png)
+![Feedback Form](screenshots/feedback_form.png)
 
 ---
 
