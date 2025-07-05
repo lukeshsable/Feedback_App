@@ -31,31 +31,31 @@ A full-stack web application that enables users to submit feedback and allows ad
 > _Ensure these image files are present in your `screenshots/` folder in the repo._
 
 ### 🏠 Front Page  
-![Front Page](screenshots/front_page.png)
+![Front Page](Screenshots/front_page.png)
 
 ---
 ### 🔐 Signup  
-![Signup Page](screenshots/signup_page.png)
+![Signup Page](Screenshots/signup_page.png)
 
 ---
 
 ### 🔐 Login  
-![Login Page](screenshots/login_page.png)
+![Login Page](Screenshots/login_page.png)
 
 ---
 
 ### 🏠 Admin Dashboard  
-![Admin Dashboard](screenshots/admin_dashboard_page.png)
+![Admin Dashboard](Screenshots/admin_dashboard_page.png)
 
 ---
 
 ### 📄 Feedback Form  
-![Feedback Form](screenshots/feedback_form.png)
+![Feedback Form](Screenshots/feedback_form.png)
 
 ---
 
 ### 📊 Ratings View  
-![Ratings View](screenshots/average_ratings.png)
+![Ratings View](Screenshots/average_ratings.png)
 
 ---
 
